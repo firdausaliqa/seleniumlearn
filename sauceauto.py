@@ -3,7 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By #library untuk cari element
 from selenium.webdriver.common.keys import Keys #library untuk input key
 
-
 class SaucedemoTest(unittest.TestCase):
     
     def a_setUp(self):
